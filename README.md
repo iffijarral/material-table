@@ -1,3 +1,7 @@
+# About Project
+A simple project to load Material-UI Table with dynamic data fetched through an api.
+There is functionality to delete single or multiple items, pagging and sorting.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
